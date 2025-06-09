@@ -1,0 +1,10 @@
+PhoneCase	24.99
+ChickenMcWrap	6.99
+PotatoChips	1.99
+ChocolateBar	2.49
+SunGlasses	19.99
+LapTopCase	49.99
+WaterBottle	8.49
+Headphones	9.99
+BubbleGum	0.99
+KeyChain	5.99
