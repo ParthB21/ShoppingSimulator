@@ -2,8 +2,6 @@
  * checked for invalid values, added a feature for returning the change if the customer chooses to pay in cash
  */
 
-import java.io.*;
-import java.util.Scanner;
 
 public class ShoppingSimulator {
     static Scanner input = new Scanner(System.in);
