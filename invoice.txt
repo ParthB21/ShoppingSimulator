@@ -1,0 +1,18 @@
+	************Invoice************
+Quantities	Price	Quantities	Sub-Total
+phonecase	24.99	2		49.98
+keychain	6.99	3		20.97
+
+***************************************************
+
+ 
+
+Sub-Total				70.95
+
+Tax					9.22
+
+Total					80.17
+
+Your change is 				0.0
+
+Thank you for shopping with us today!
