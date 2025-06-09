@@ -9,8 +9,7 @@ public class ShoppingSimulator {
     static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
-        // the main method calls the method which calls all other methods to execute the
-        // code
+        // random comment
 
         callMethods();
     } // main method ends here
